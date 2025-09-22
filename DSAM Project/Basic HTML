@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML gonna fuck da world up</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+  <h1>Is this where I tell the world my dream? </h1>
+  <p>A map of the world to come. When surveillance meets its match by decentralized resistance to the prying eyes of the techno-oligarchic state that is the United States of Amerika</p>
+    <h2>The coming age of pirates</h2>
+    <img src="https://static.wikia.nocookie.net/onepiece/images/8/87/Straw_Hat_Pirates%27_Jolly_Roger.png/revision/latest?cb=20250208214549" alt="The Straw_Hat_Pirates_Jolly_Roger" width="500" height="400">
+<p>To begin your pirating journey with the Straw Hat crew, go <a href="https://www.viz.com/shonenjump/chapters/one-piece">here
+
+
+  <script src="index.js"></script>
+  </body>
+
+</html>
